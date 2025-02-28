@@ -15,7 +15,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>web</module>
-        <module>tutorial8-1</module>
     </modules>
 
     <properties>

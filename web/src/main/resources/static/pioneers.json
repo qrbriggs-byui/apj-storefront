@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "name": "Alan Turing",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Developed the concept of the Turing machine, laying the foundation for theoretical computer science.",
+    "price": 599.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 2,
+    "name": "Ada Lovelace",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Wrote the first algorithm intended for implementation on Charles Babbage's Analytical Engine, becoming the first computer programmer.",
+    "price": 579.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 3,
+    "name": "John von Neumann",
+    "specialty": "Computer Architecture",
+    "contribution": "Designed the von Neumann architecture that forms the basis of most modern computer systems.",
+    "price": 549.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 4,
+    "name": "Grace Hopper",
+    "specialty": "Programming Languages",
+    "contribution": "Developed the first compiler and was instrumental in the development of COBOL.",
+    "price": 529.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 5,
+    "name": "James Gosling",
+    "specialty": "Programming Languages",
+    "contribution": "Led the creation of the Java programming language while at Sun Microsystems in 1995.",
+    "price": 499.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 6,
+    "name": "Tim Berners-Lee",
+    "specialty": "Networking & Internet",
+    "contribution": "Invented the World Wide Web while at CERN, creating the first web browser and server.",
+    "price": 489.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 7,
+    "name": "Bjarne Stroustrup",
+    "specialty": "Programming Languages",
+    "contribution": "Created the C++ programming language as an extension of C, adding object-oriented features.",
+    "price": 479.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 8,
+    "name": "Donald Knuth",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Wrote 'The Art of Computer Programming' and created the TeX typesetting system.",
+    "price": 469.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 9,
+    "name": "Dennis Ritchie",
+    "specialty": "Programming Languages",
+    "contribution": "Created the C programming language and co-developed the Unix operating system at Bell Labs.",
+    "price": 459.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 10,
+    "name": "Ken Thompson",
+    "specialty": "Operating Systems",
+    "contribution": "Co-created the Unix operating system and developed the B programming language, predecessor to C.",
+    "price": 449.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 11,
+    "name": "Linus Torvalds",
+    "specialty": "Operating Systems",
+    "contribution": "Created the Linux kernel and initiated the development of Git version control system.",
+    "price": 439.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 12,
+    "name": "Claude Shannon",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Established information theory with his landmark paper 'A Mathematical Theory of Communication'.",
+    "price": 429.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 13,
+    "name": "Marvin Minsky",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Co-founded MIT's AI laboratory and made fundamental contributions to AI research.",
+    "price": 419.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 14,
+    "name": "Edsger W. Dijkstra",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Developed Dijkstra's algorithm for shortest paths and made significant contributions to structured programming.",
+    "price": 409.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 15,
+    "name": "Margaret Hamilton",
+    "specialty": "Software Engineering",
+    "contribution": "Led the team that wrote the onboard flight software for NASA's Apollo missions.",
+    "price": 399.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 16,
+    "name": "Guido van Rossum",
+    "specialty": "Programming Languages",
+    "contribution": "Created the Python programming language, focusing on code readability and simplicity.",
+    "price": 389.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 17,
+    "name": "John McCarthy",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Coined the term 'artificial intelligence' and invented the Lisp programming language.",
+    "price": 379.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 18,
+    "name": "Patrick Naughton",
+    "specialty": "Programming Languages",
+    "contribution": "Key member of the Green Team that developed Java, created the original Java GUI library.",
+    "price": 369.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 19,
+    "name": "Vint Cerf",
+    "specialty": "Networking & Internet",
+    "contribution": "Co-designed the TCP/IP protocols and architecture of the Internet.",
+    "price": 359.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 20,
+    "name": "Bob Kahn",
+    "specialty": "Networking & Internet",
+    "contribution": "Co-invented the Transmission Control Protocol (TCP) with Vint Cerf.",
+    "price": 349.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 21,
+    "name": "Larry Page",
+    "specialty": "Networking & Internet",
+    "contribution": "Co-founded Google and developed the PageRank algorithm.",
+    "price": 339.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 22,
+    "name": "Sergey Brin",
+    "specialty": "Networking & Internet",
+    "contribution": "Co-founded Google and helped develop the PageRank algorithm.",
+    "price": 339.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 23,
+    "name": "Barbara Liskov",
+    "specialty": "Programming Languages",
+    "contribution": "Developed the Liskov Substitution Principle and designed the CLU programming language.",
+    "price": 329.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 24,
+    "name": "Bill Gates",
+    "specialty": "Software Engineering",
+    "contribution": "Co-founded Microsoft and helped develop early versions of BASIC for microcomputers.",
+    "price": 319.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 25,
+    "name": "Steve Jobs",
+    "specialty": "Computer Architecture",
+    "contribution": "Co-founded Apple and was instrumental in the development of the Macintosh and later iOS devices.",
+    "price": 309.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 26,
+    "name": "Richard Stallman",
+    "specialty": "Software Engineering",
+    "contribution": "Founded the Free Software Foundation and initiated the GNU Project.",
+    "price": 299.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 27,
+    "name": "Mike Sheridan",
+    "specialty": "Programming Languages",
+    "contribution": "Original member of the Green Team, helped define Java's business requirements.",
+    "price": 289.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 28,
+    "name": "Tim Lindholm",
+    "specialty": "Programming Languages",
+    "contribution": "Led the Java Virtual Machine specification and implementation.",
+    "price": 279.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 29,
+    "name": "Bill Joy",
+    "specialty": "Operating Systems",
+    "contribution": "Co-founder of Sun Microsystems, instrumental in Java's adoption and helped develop Berkeley Unix.",
+    "price": 269.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 30,
+    "name": "Arthur van Hoff",
+    "specialty": "Programming Languages",
+    "contribution": "Wrote the Java compiler in Java and helped create the Java platform.",
+    "price": 259.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 31,
+    "name": "Jonathan Payne",
+    "specialty": "Networking & Internet",
+    "contribution": "Created the WebRunner browser, predecessor to HotJava, demonstrating Java's capabilities.",
+    "price": 249.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 32,
+    "name": "Amy Fowler",
+    "specialty": "Graphics & HCI",
+    "contribution": "Core developer of Swing GUI components and AWT architecture for Java.",
+    "price": 239.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 33,
+    "name": "Guy L. Steele",
+    "specialty": "Programming Languages",
+    "contribution": "Wrote the original Java Language Specification with James Gosling.",
+    "price": 229.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 34,
+    "name": "Scott Oaks",
+    "specialty": "Cybersecurity",
+    "contribution": "Pioneered Java's security architecture and wrote influential Java security books.",
+    "price": 219.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 35,
+    "name": "Frank Yellin",
+    "specialty": "Programming Languages",
+    "contribution": "Key contributor to Java's security model and class libraries.",
+    "price": 209.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 36,
+    "name": "Chris Warth",
+    "specialty": "Programming Languages",
+    "contribution": "Key contributor to Java's development, worked on the original Java team.",
+    "price": 199.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 37,
+    "name": "Anders Hejlsberg",
+    "specialty": "Programming Languages",
+    "contribution": "Created Turbo Pascal, chief architect of Delphi, and later led the development of C# at Microsoft.",
+    "price": 189.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 38,
+    "name": "Brendan Eich",
+    "specialty": "Programming Languages",
+    "contribution": "Created JavaScript in just 10 days while at Netscape in 1995.",
+    "price": 179.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 39,
+    "name": "John Backus",
+    "specialty": "Programming Languages",
+    "contribution": "Led the team that created FORTRAN, the first widely used high-level programming language.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 40,
+    "name": "Edgar F. Codd",
+    "specialty": "Database Systems",
+    "contribution": "Invented the relational model for database management, the theoretical basis for relational databases.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 41,
+    "name": "Tony Hoare",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Developed the Quicksort algorithm and made significant contributions to programming language design.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 42,
+    "name": "Geoffrey Hinton",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Pioneer in deep learning neural networks and backpropagation algorithms.",
+    "price": 239.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 43,
+    "name": "Yann LeCun",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Developed convolutional neural networks (CNNs) that revolutionized computer vision.",
+    "price": 229.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 44,
+    "name": "Yoshua Bengio",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Pioneering work on artificial neural networks and deep learning.",
+    "price": 219.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 45,
+    "name": "Andrew Ng",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Co-founded Google Brain and Coursera, making significant contributions to deep learning research.",
+    "price": 209.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 46,
+    "name": "Fei-Fei Li",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Created ImageNet, the dataset that revolutionized computer vision and deep learning.",
+    "price": 199.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 47,
+    "name": "Judea Pearl",
+    "specialty": "Artificial Intelligence",
+    "contribution": "Developed Bayesian networks and probabilistic approaches to AI, advancing causal reasoning.",
+    "price": 189.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 48,
+    "name": "Ivan Sutherland",
+    "specialty": "Graphics & HCI",
+    "contribution": "Developed Sketchpad, the first graphical user interface, and pioneered virtual reality.",
+    "price": 179.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 49,
+    "name": "Niklaus Wirth",
+    "specialty": "Programming Languages",
+    "contribution": "Created several programming languages including Pascal, Modula, and Oberon.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 50,
+    "name": "Ray Tomlinson",
+    "specialty": "Networking & Internet",
+    "contribution": "Implemented the first email program and chose the @ symbol for email addresses.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 51,
+    "name": "Brian Kernighan",
+    "specialty": "Programming Languages",
+    "contribution": "Co-authored the first book on C programming language and contributed to Unix development.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 52,
+    "name": "Leslie Lamport",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Developed the concept of distributed systems and created LaTeX document preparation system.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 53,
+    "name": "Peter Naur",
+    "specialty": "Programming Languages",
+    "contribution": "Contributed to the development of ALGOL 60 and co-developed the Backus-Naur Form notation.",
+    "price": 129.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 54,
+    "name": "Ted Codd",
+    "specialty": "Database Systems",
+    "contribution": "Invented the relational model for database management, the theoretical basis for relational databases.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 55,
+    "name": "James Clark",
+    "specialty": "Networking & Internet",
+    "contribution": "Significant contributor to XML and SGML standards and creator of various XML tools.",
+    "price": 119.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 56,
+    "name": "Larry Wall",
+    "specialty": "Programming Languages",
+    "contribution": "Created the Perl programming language, designed for text manipulation.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 57,
+    "name": "Adele Goldberg",
+    "specialty": "Programming Languages",
+    "contribution": "Developed the Smalltalk language and pioneered object-oriented programming concepts.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 58,
+    "name": "Alan Kay",
+    "specialty": "Programming Languages",
+    "contribution": "Pioneer of object-oriented programming and the concept of the personal computer.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 59,
+    "name": "Douglas Engelbart",
+    "specialty": "Graphics & HCI",
+    "contribution": "Invented the computer mouse and demonstrated early hypertext systems.",
+    "price": 179.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 60,
+    "name": "Ted Nelson",
+    "specialty": "Networking & Internet",
+    "contribution": "Pioneered hypertext and coined the term; developed the Xanadu project.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 61,
+    "name": "Gordon Moore",
+    "specialty": "Computer Architecture",
+    "contribution": "Co-founder of Intel and author of Moore's Law predicting the growth of computing power.",
+    "price": 189.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 62,
+    "name": "Seymour Cray",
+    "specialty": "Computer Architecture",
+    "contribution": "Designer of supercomputers and founder of Cray Research.",
+    "price": 179.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 63,
+    "name": "Steve Wozniak",
+    "specialty": "Computer Architecture",
+    "contribution": "Co-founded Apple and designed the Apple I and Apple II computers.",
+    "price": 199.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 64,
+    "name": "David Patterson",
+    "specialty": "Computer Architecture",
+    "contribution": "Developed the RISC processor architecture and co-authored influential computer architecture books.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 65,
+    "name": "John Hennessy",
+    "specialty": "Computer Architecture",
+    "contribution": "Co-developed RISC architecture and co-authored key textbooks on computer architecture.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 66,
+    "name": "Yukihiro Matsumoto",
+    "specialty": "Programming Languages",
+    "contribution": "Created the Ruby programming language, focusing on programmer happiness.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 67,
+    "name": "Rasmus Lerdorf",
+    "specialty": "Programming Languages",
+    "contribution": "Created the PHP programming language, widely used for web development.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 68,
+    "name": "Joe Armstrong",
+    "specialty": "Programming Languages",
+    "contribution": "Created the Erlang programming language, designed for concurrent, distributed systems.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 69,
+    "name": "Robin Milner",
+    "specialty": "Programming Languages",
+    "contribution": "Developed ML programming language and made significant contributions to concurrent systems theory.",
+    "price": 129.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 70,
+    "name": "Kristen Nygaard",
+    "specialty": "Programming Languages",
+    "contribution": "Co-invented Simula, the first object-oriented programming language.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 71,
+    "name": "Ole-Johan Dahl",
+    "specialty": "Programming Languages",
+    "contribution": "Co-created Simula with Kristen Nygaard, pioneering object-oriented programming concepts.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 72,
+    "name": "Whitfield Diffie",
+    "specialty": "Cybersecurity",
+    "contribution": "Co-invented public key cryptography and the Diffie-Hellman key exchange protocol.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 73,
+    "name": "Martin Hellman",
+    "specialty": "Cybersecurity",
+    "contribution": "Co-invented the Diffie-Hellman key exchange method for secure communications.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 74,
+    "name": "Ron Rivest",
+    "specialty": "Cybersecurity",
+    "contribution": "Co-invented the RSA algorithm for public-key cryptography.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 75,
+    "name": "Adi Shamir",
+    "specialty": "Cybersecurity",
+    "contribution": "Co-invented the RSA algorithm and made significant contributions to cryptography.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 76,
+    "name": "Leonard Adleman",
+    "specialty": "Cybersecurity",
+    "contribution": "Co-invented the RSA algorithm and coined the term 'computer virus'.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 77,
+    "name": "Bruce Schneier",
+    "specialty": "Cybersecurity",
+    "contribution": "Created several encryption algorithms and wrote influential books on cryptography and security.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 78,
+    "name": "Jim Gray",
+    "specialty": "Database Systems",
+    "contribution": "Pioneered transaction processing concepts and contributed to database system development.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 79,
+    "name": "Michael Stonebraker",
+    "specialty": "Database Systems",
+    "contribution": "Created Ingres and Postgres database systems, pioneering relational and object-relational databases.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 80,
+    "name": "Ralph Kimball",
+    "specialty": "Database Systems",
+    "contribution": "Developed the dimensional modeling approach for data warehousing.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 81,
+    "name": "Tim Cook",
+    "specialty": "Software Engineering",
+    "contribution": "Led Apple's operational excellence and continued innovation after Steve Jobs.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 82,
+    "name": "Satya Nadella",
+    "specialty": "Software Engineering",
+    "contribution": "Transformed Microsoft's culture and business, emphasizing cloud computing and AI.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 83,
+    "name": "Andrew S. Tanenbaum",
+    "specialty": "Operating Systems",
+    "contribution": "Created MINIX, which influenced Linux, and wrote influential books on operating systems.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 84,
+    "name": "Lynn Conway",
+    "specialty": "Computer Architecture",
+    "contribution": "Pioneer in microelectronics chip design and co-authored landmark textbook 'Introduction to VLSI Systems'.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 85,
+    "name": "Jean E. Sammet",
+    "specialty": "Programming Languages",
+    "contribution": "Developed FORMAC, the first widely used language for symbolic mathematics, and documented programming language history.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 86,
+    "name": "Shafi Goldwasser",
+    "specialty": "Cybersecurity",
+    "contribution": "Pioneered zero-knowledge proofs and probabilistic encryption in cryptography.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 87,
+    "name": "Frances E. Allen",
+    "specialty": "Programming Languages",
+    "contribution": "Pioneer in compiler optimization techniques and parallel computing.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 88,
+    "name": "Maurice Wilkes",
+    "specialty": "Computer Architecture",
+    "contribution": "Built the EDSAC, one of the first stored-program computers.",
+    "price": 169.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 89,
+    "name": "Marc Andreessen",
+    "specialty": "Networking & Internet",
+    "contribution": "Co-created Mosaic, the first widely-used web browser, and co-founded Netscape.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 90,
+    "name": "Vannevar Bush",
+    "specialty": "Graphics & HCI",
+    "contribution": "Conceptualized the Memex, a hypothetical device that influenced the development of hypertext.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 91,
+    "name": "Bob Metcalfe",
+    "specialty": "Networking & Internet",
+    "contribution": "Invented Ethernet and co-founded 3Com Corporation.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 92,
+    "name": "Randy Pausch",
+    "specialty": "Graphics & HCI",
+    "contribution": "Pioneer in virtual reality and human-computer interaction; created Alice programming environment.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 93,
+    "name": "Sophie Wilson",
+    "specialty": "Computer Architecture",
+    "contribution": "Designed the instruction set for ARM processors, now used in billions of devices.",
+    "price": 159.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 94,
+    "name": "Steve Furber",
+    "specialty": "Computer Architecture",
+    "contribution": "Co-designed the ARM processor while at Acorn Computers.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 95,
+    "name": "Butler Lampson",
+    "specialty": "Software Engineering",
+    "contribution": "Contributed to the development of personal distributed computing and local area networks.",
+    "price": 139.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 96,
+    "name": "Roy Fielding",
+    "specialty": "Networking & Internet",
+    "contribution": "Principal author of the HTTP specification and formulated the REST architectural style.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 97,
+    "name": "Katherine Johnson",
+    "specialty": "Software Engineering",
+    "contribution": "NASA mathematician whose calculations were critical for early U.S. spaceflights and the Space Shuttle program.",
+    "price": 179.99,
+    "image": "/api/placeholder/200/280"
+  },
+  {
+    "id": 98,
+    "name": "Richard Hamming",
+    "specialty": "Algorithms & Theory",
+    "contribution": "Developed error-detecting and error-correcting codes, including Hamming codes.",
+    "price": 149.99,
+    "image": "/api/placeholder/200/280"
+  }
+]
